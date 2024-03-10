@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "tsc ./two-sum-two.ts && node ./two-sum-two.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.2"
+  }
+}
